@@ -1,2 +1,2 @@
-# AvlTree
-Data Structures 2017 auth , Avl trees , File Handler, Avl tree with each node another avl.
+Project:
+Data Structures, Avl trees.
